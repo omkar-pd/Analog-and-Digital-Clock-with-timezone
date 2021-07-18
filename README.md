@@ -1,2 +1,4 @@
 # Analog and Digital Clock with timezone
- Simple Analog and Digital Clock where we can change timezone
+ Simple Mini Project on Analog and Digital Clock where we can change timezone
+.
+
